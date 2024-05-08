@@ -1,4 +1,4 @@
-# REV Hub Interface (Community Edition)
+# REV Hub Interface (Community Edition) - Flatpak test 
 
 The REV Hub Interface is a piece of software allowing for a direct connection from a REV Expansion Hub and its peripherals to a PC. 
 
